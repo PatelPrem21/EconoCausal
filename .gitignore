@@ -21,4 +21,7 @@ Thumbs.db
 
 # Do not upload private notes if specified
 do_not_upload/
-do_not_upload/
+
+#Data
+data/
+
