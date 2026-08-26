@@ -1,0 +1,11 @@
+recency,history_segment,history,mens,womens,newbie,segment,visit,conversion,spend,treatment,zip_code_Surburban,zip_code_Urban,channel_Phone,channel_Web,ite
+10,2) $100 - $200,142.44,1,0,0,Womens E-Mail,0,0,0.0,1,True,False,True,False,0.0015844162600434
+6,3) $200 - $350,329.08,1,1,1,No E-Mail,0,0,0.0,0,False,False,False,True,0.0099020436084603
+7,2) $100 - $200,180.65,0,1,1,Womens E-Mail,0,0,0.0,1,True,False,False,True,0.0070784571991312
+9,5) $500 - $750,675.83,1,0,1,Mens E-Mail,0,0,0.0,1,False,False,False,True,0.0060314293742124
+2,1) $0 - $100,45.34,1,0,0,Womens E-Mail,0,0,0.0,1,False,True,False,True,0.0027943253623941
+6,2) $100 - $200,134.83,0,1,0,Womens E-Mail,1,0,0.0,1,True,False,True,False,0.0031927327848113
+9,3) $200 - $350,280.2,1,0,1,Womens E-Mail,0,0,0.0,1,True,False,True,False,0.0037116056451735
+9,1) $0 - $100,46.42,0,1,0,Womens E-Mail,0,0,0.0,1,False,True,True,False,0.0035261416434613
+9,5) $500 - $750,675.07,1,1,1,Mens E-Mail,0,0,0.0,1,False,False,True,False,0.0093458518984875
+10,1) $0 - $100,32.84,0,1,1,Womens E-Mail,0,0,0.0,1,False,True,False,True,0.0072326503811539
